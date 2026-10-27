@@ -4,3 +4,4 @@ scikit-learn
 # hashlib
 matplotlib
 seaborn
+statsmodels
