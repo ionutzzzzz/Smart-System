@@ -1,0 +1,19 @@
+﻿{
+    "Name": "WBCIC_SHU Motor Imagery dataset",
+    "License": "CC BY 4.0",
+    "Authors": [
+        "Banghua Yang", 
+        "Fenqi Rong", 
+        "Yunlong Xie",
+        "Du Li",
+        "Jiayang Zhang",
+        "Fu Li",
+        "Guangming Shi",
+        "Xiaorong Gao"
+    ],
+    "Acknowledgements": "We thank Daniel Myklody for general guidance and help in setting up the recording site.",
+    "HowToAcknowledge": "Please cite: ",
+    "ReferencesAndLinks": [
+    ],
+    "DatasetDOI": "10.25452/figshare.plus.22671172",
+}

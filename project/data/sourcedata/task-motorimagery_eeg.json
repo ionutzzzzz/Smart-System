@@ -1,0 +1,25 @@
+{
+"TaskName": "Motor imagery"
+"TaskDescription": "The two experiment paradigms were designed to quantitatively acquire data related to the different limbs MI tasks.  
+The experimental tasks comprised three tasks: left hand-grasping, right hand-grasping and foot-hooking.  
+In particular, foot-hooking refers to keeping the heel of the foot stationary while slowly lifting the toe, creating a 45-degree angle with the ground.  
+When  the experiment began, visual and auditory instructions are appeared simultaneously.  
+The visual cues of MI tasks are provided on the monitor by displaying a brief video on a white background, while resting cue are provided on the monitor by displaying  a white cross sign on a black background.",
+"InstitutionName": "Shanghai University, Shanghai, China"
+"SamplingFrequency": "1000",
+"Manufacturer": "neuracle",
+"ManufacturersModelName": "NSW3BA0064_Device:03365374",
+"CapManufacturer": "neuracle",
+"CapManufacturersModelName": "EEGCap64-V3.0",
+"EEGChannelCount": "59",
+"EOGChannelCount": "1",
+"ECGChannelCount": "4",
+"EMGChannelCount": "0",
+"MiscChannelCount": "0",
+"TriggerChannelCount": "0",
+"PowerLineFrequency": "50",
+"EEGPlacementScheme": "10-20 percent system",
+"EEGReference": "REF",
+"EEGGround": "GND",
+"RecordingType": "continuous"
+}
