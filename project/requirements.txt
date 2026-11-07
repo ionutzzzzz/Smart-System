@@ -1,0 +1,4 @@
+moabb
+numpy
+pandas
+scikit-learn
