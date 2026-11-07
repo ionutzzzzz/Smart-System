@@ -1,4 +1,8 @@
-moabb
 numpy
 pandas
 scikit-learn
+# hashlib
+matplotlib
+seaborn
+statsmodels
+moabb
