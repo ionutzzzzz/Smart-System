@@ -186,3 +186,8 @@ ipython_config.py
 ### pydev ###
 .pydevproject
 
+
+
+# Custom files
+X_data.csv
+y_data.csv
