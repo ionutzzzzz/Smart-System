@@ -1,8 +1,10 @@
+dask
+moabb
 numpy
 pandas
-scikit-learn
+seaborn
+pyarrow
 # hashlib
 matplotlib
-seaborn
 statsmodels
-moabb
+scikit-learn

@@ -191,3 +191,10 @@ ipython_config.py
 # Custom files
 X_data.csv
 y_data.csv
+
+# Generated datasets and binary data
+*.parquet
+*.npz
+project/data/*.parquet
+project/data/*.npz
+
